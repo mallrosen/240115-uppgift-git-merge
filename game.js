@@ -14,7 +14,7 @@ const maximalQuestions = 4;
 let questions = [
   {
     question: "Varför är Malin bäst?",
-    choice1: "För att hon är snäll",
+    choice1: "För att hon är snällast",
     choice2: "För att hon är cool",
     choice3: "För att hon kommer från stockholm",
     choice4: "Allt det ovanför",
