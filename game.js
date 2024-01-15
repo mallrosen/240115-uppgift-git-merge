@@ -13,12 +13,12 @@ const maximalQuestions = 4;
 
 let questions = [
   {
-    question: "What is the capital of Sweden ?",
-    choice1: "Oslo",
-    choice2: "Stockholm",
-    choice3: "Gothenburg",
-    choice4: "Malmoe",
-    answer: 2,
+    question: "Varför är Malin bäst?",
+    choice1: "För att hon är snäll",
+    choice2: "För att hon är cool",
+    choice3: "För att hon kommer från stockholm",
+    choice4: "Allt det ovanför",
+    answer: 4,
   },
 
   {
