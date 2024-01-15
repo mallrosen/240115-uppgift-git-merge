@@ -22,11 +22,11 @@ let questions = [
   },
 
   {
-    question: "What is the sweden currency?",
-    choice1: "Dollar",
-    choice2: "Euro",
-    choice3: "Swedish Krona",
-    choice4: "Swedish Mark",
+    question: "Hur lång är Malin?",
+    choice1: "162 cm",
+    choice2: "172 cm",
+    choice3: "167 cm",
+    choice4: "178 cm",
     answer: 3,
   },
 
