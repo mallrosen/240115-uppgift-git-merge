@@ -31,20 +31,20 @@ let questions = [
   },
 
   {
-    question: "What is Swedens highest mountain?",
-    choice1: "Keslaberget",
-    choice2: "Halti",
-    choice3: "Skardstinden",
-    choice4: "Kebnekaise",
-    answer: 4,
+    question: "Vad gillar Malin mest att äta?",
+    choice1: "Pizza",
+    choice2: "Gurka",
+    choice3: "Skaldjur",
+    choice4: "Vaniljglass",
+    answer: 2,
   },
 
   {
-    question: "What is Sweden in Swedish??",
-    choice1: "Svealand",
-    choice2: "Svorje",
-    choice3: "Sverige",
-    choice4: "Sweden",
+    question: "Vad heter Malins lillasyster",
+    choice1: "Henny",
+    choice2: "Kersti",
+    choice3: "Nike",
+    choice4: "Lisa",
     answer: 3,
   },
 ];
